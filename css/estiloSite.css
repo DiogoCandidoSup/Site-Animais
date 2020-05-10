@@ -1,0 +1,21 @@
+*
+{
+	background-color: white;
+}
+
+body header h1
+{
+	text-align: center;
+	font-size: 45pt;
+}
+
+main #foto
+{
+	text-align: center;
+	border: 1px transparent black;
+}
+
+main #texto
+{
+	text-align: center;
+}
